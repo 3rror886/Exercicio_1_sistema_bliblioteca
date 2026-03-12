@@ -13,6 +13,7 @@ Atributos:
 Livro: ISBN, Título, Ano Publicação, Editora
 Autor: Código do autor, Nome, Nacionalidade
 Leitor: Data de Emp. Data de Dev.
+Empréstimo: Data de empréstimo, data de devolução
 
 Relacionamentos e Cardinalidade: 
 
