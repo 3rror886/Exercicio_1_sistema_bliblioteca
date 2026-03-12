@@ -18,7 +18,7 @@ Empréstimo: Data de empréstimo, data de devolução
 Relacionamentos e Cardinalidade: 
 
 Autor Livro = Muitos para Muitos / N:N
-Leitor Empréstimo = Relacionamento um para Muitos / 1=N
-Livro Empréstimo = Relacionamento um para Muitos / 1=N
+Leitor Empréstimo = Relacionamento um para Muitos / 1:N
+Livro Empréstimo = Relacionamento um para Muitos / 1:N
 
 
