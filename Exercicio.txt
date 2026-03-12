@@ -1,0 +1,23 @@
+Frase do dia: Neste mundo, sempre que houver luz, havera sombras.
+enquanto o conceito de vencedores existir, também deve haver um perdedor -Madara Uchiha(Naruto) 
+
+Entidades:
+
+Livro: O principal conjunto de itens
+Autor: O escritor dos Livros
+Leitor: Aquele que frequenta a Bliblioteca
+Empréstimo: Entidade que registra o retiro do livro e devolução do mesmo
+
+Atributos:
+
+Livro: ISBN, Título, Ano Publicação, Editora
+Autor: Código do autor, Nome, Nacionalidade
+Leitor: Data de Emp. Data de Dev.
+
+Relacionamentos e Cardinalidade: 
+
+Autor Livro = Muitos para Muitos / N:N
+Leitor Empréstimo = Relacionamento um para Muitos / 1=N
+Livro Empréstimo = Relacionamento um para Muitos / 1=N
+
+
